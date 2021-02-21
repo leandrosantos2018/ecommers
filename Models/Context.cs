@@ -21,7 +21,6 @@ namespace ecommers.Models.Context
 
         public DbSet<ecommers.Models.TipoPessoa> TipoPessoas { get; set; }
 
-
         public DbSet<ecommers.Models.Produtos> Produtos { get; set; }
 
 
